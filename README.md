@@ -15,5 +15,3 @@ Utilize o mapa mental como uma referência visual para planejar e executar os te
 Testes de Classe de Equivalência e Limites:
 Encontre os casos de teste que exploram diferentes classes de equivalência e limites para garantir uma cobertura completa e robusta.
 
-Testes de API no Postman:
-Este diretório contém coleções do Postman para os testes de API. Use-as para validar a integração e funcionalidades da API.
