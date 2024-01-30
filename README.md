@@ -15,3 +15,5 @@ Utilize o mapa mental como uma referência visual para planejar e executar os te
 Testes de Classe de Equivalência e Limites:
 Encontre os casos de teste que exploram diferentes classes de equivalência e limites para garantir uma cobertura completa e robusta.
 
+Testes de Interface/checklists/funcionalidade e Lógica:
+Encontre os casos de teste que exploram a interface, a funcionalidade e a lógica do aplicativo.
